@@ -30,8 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [KBK KBK](
-https://youtube.com/channel/UCjSJTMm4KamSx0dTUDlAGlA)
+➥ Creator : [KBK KBK](https://youtube.com/channel/UCjSJTMm4KamSx0dTUDlAGlA)
 
 ➥ Language : Python3
 
