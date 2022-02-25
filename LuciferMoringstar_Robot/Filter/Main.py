@@ -352,7 +352,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     )
 
 
-        elif query.data == "pages":
+        elif query.data == "filter":
             await query.answer()
     else:
-        await query.answer("കൌതുകും ലേശം കൂടുതൽ ആണല്ലേ👀",show_alert=True)
+        await query.filter("കൌതുകും ലേശം കൂടുതൽ ആണല്ലേ👀",show_alert=True)
